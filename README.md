@@ -1,6 +1,6 @@
-# 👋 Hey, I'm bro
+# 👋 Hey, there!!
  
-💻 Full Stack Developer | Java + Spring Boot | React
+💻 Full Stack Developer | Java + Spring Boot | React | PostgresSql
 ⚡ Building real-world systems, not just tutorials
  
 ---
